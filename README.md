@@ -2,15 +2,15 @@
 
 ## Prólogo
 
-### :octocat: GitHub
+### GitHub
 
 GitHub es una plataforma de desarrollo de software y una de las mas grandes e importantes en el mercado. GitHub implementa el sistema de control de versionado [Git](https://git-scm.com/), el cual permite mantener un historial de los cambios que se van realizando en un código.
 
-### :computer: Algoritmos y Estructuras de Datos
+### Algoritmos y Estructuras de Datos
 
 Desde la cátedra creemos que GitHub puede ser una herramienta que nos permita mejorar y hacer mas dinámico la correcciones de los ejercicios que realizamos en la práctica, además que el conocimiento en el uso de esta plataforma es algo muy demandado en el mercado laboral.
 
-## :clipboard: Contenido
+## Contenido
 
 En esta asignatura solo vamos a aprovechar una pequeña parte de toda la potencia y características que posee GitHub. Estan invitados a seguir investigando sobre la misma y preguntarnos ante cualquier inquietud que lleguen a tener.
 
@@ -24,11 +24,11 @@ Entonces, que necesitamos saber para usar GitHub en Algoritmos y Estructuras de 
 - Aceptar un Pull Request
 - Preguntas
 
-## :exclamation: Aclaración
+## Aclaración
 
 Github puede ser una herramienta muy buena pero no es obligatoria. Si no te animas a usarla todavía aún podes mandar tus ejercicios por el medio que te sientas más cómodo.
 
-## :school: Equipo
+## Equipo
 
 El equipo de Algoritmos y Estructura de Datos esta conformado por las siguientes persona y sus respectivas cuentas
 
