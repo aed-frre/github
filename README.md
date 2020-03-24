@@ -10,28 +10,29 @@ GitHub es una plataforma de desarrollo de software y una de las mas grandes e im
 
 Desde la cátedra creemos que GitHub puede ser una herramienta que nos permita mejorar y hacer mas dinámico la correcciones de los ejercicios que realizamos en la práctica, además que el conocimiento en el uso de esta plataforma es algo muy demandado en el mercado laboral.
 
-## Índice
+## Contenido
 
 En esta asignatura solo vamos a aprovechar una pequeña parte de toda la potencia y características que posee GitHub. Estan invitados a seguir investigando sobre la misma y preguntarnos ante cualquier inquietud que lleguen a tener.
 
-Que necesitamos saber para usar GitHub en Algoritmos y Estructuras de Datos?
+Entonces, que necesitamos saber para usar GitHub en Algoritmos y Estructuras de Datos?
 
-1. Crear una cuenta de GitHub
-2. Crear un repositorio
-3. Bifurcar un repositorio
-4. Crear archivos dentro de un repositorio
-5. Verificar un Pull Request (correcciones)
-6. Aceptar un Pull Request
-7. Preguntas
+- Crear una cuenta de GitHub
+- Crear un repositorio
+- Bifurcar un repositorio
+- Crear archivos dentro de un repositorio
+- Verificar un Pull Request (correcciones)
+- Aceptar un Pull Request
+- Preguntas
 
 ## Aclaración
 
-Github puede ser una herramienta muy buena pero no es obligatoria. Si no te animas a usarla todavía aún podes mandar tus ejercicios por el medio que mas te sientas cómodo.
+Github puede ser una herramienta muy buena pero no es obligatoria. Si no te animas a usarla todavía aún podes mandar tus ejercicios por el medio que te sientas más cómodo.
 
-## Los Profes
+## :busts_in_silhouette: Equipo
 
-Las correcciones de los ejercicios las van a realizar los profesores de la práctica a partir de las siguientes cuentas:
+El equipo de Algoritmos y Estructura de Datos esta conformado por las siguientes persona y sus respectivas cuentas
 
-[@lucassebib](https://github.com/lucassebib)
-
-[@nelsonyaccuzzi](https://github.com/nelsonyaccuzzi)
+| Comision | Cargo | Nombre | Cuenta | 
+|---|---|---|---|
+| C/D | Auxiliar de Primera | Lucas Ibañez | :bust_in_silhouette: [@lucassebib](https://github.com/lucassebib) |
+| C/D | Auxiliar de Primera | Nelson Yaccuzzi | :bust_in_silhouette: [@nelsonyaccuzzi](https://github.com/nelsonyaccuzzi) |
