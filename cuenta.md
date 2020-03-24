@@ -14,9 +14,9 @@ Ingresar al siguiente sitio [https://github.com](https://github.com)
 
 Apenas al ingresar al sitio GitHub ya nos propone opción de registrarnos escribiendo solo tres datos
 
-	1. Nombre de usuario para la cuenta de GitHub
-	2. Dirección de correo electronico
-	3. Contraseña para la cuenta de GitHub
+1. Nombre de usuario para la cuenta de GitHub
+2. Dirección de correo electronico
+3. Contraseña para la cuenta de GitHub
 
 > Es posible que esta cuenta te acompañe por el resto de tus días, pensá bien tu nombre de usuario!
 
@@ -58,7 +58,7 @@ Hacemos click en *Verify Email Address* y inmediatamente esto nos redirigirá ha
 
 ### 7. Listo
 
-Ya hemos creado nuestra primer cuenta de GitHub!!! :tada: :confetti_ball:
+:confetti_ball: Ya hemos creado nuestra primer cuenta de GitHub!!! :tada: 
 
 Como primer paso GitHub ya nos propone crear nuestro primer repositorio, lo cual lo vemos [aquí](repo.md)
 
