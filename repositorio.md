@@ -38,7 +38,9 @@ Automáticamente GitHub te redirigirá hacia el sitio donde se encuentra tu repo
 
 ![Repositorio finalizado][fin-repo]
 
-Como el mismo esta vacío, varias opciones de como comenzar a trabajar sobre el mismo aparecen en pantalla. Esto lo veremos por [aquí](file.md)
+Como el mismo esta vacío, varias opciones de como comenzar a trabajar sobre el mismo aparecen en pantalla. Esto lo veremos por [aquí](archivos.md)
+
+Para compartir tu repositorio solo tienes que compartir la URL que aparece en la barra de direcciones, en este caso [https://github.com/jonaci7536/ejercicios](https://github.com/jonaci7536/ejercicios)
 
 [new-repo]: img/repo/new-repo.png "New Repository"
 [config-repo]: img/repo/config-repo.png "Configurar Repositorio"

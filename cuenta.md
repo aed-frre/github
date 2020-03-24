@@ -60,7 +60,7 @@ Hacemos click en *Verify Email Address* y inmediatamente esto nos redirigirá ha
 
 :confetti_ball: Ya hemos creado nuestra primer cuenta de GitHub!!! :tada: 
 
-Como primer paso GitHub ya nos propone crear nuestro primer repositorio, lo cual lo vemos [aquí](repo.md)
+Como primer paso GitHub ya nos propone crear nuestro primer repositorio, lo cual lo vemos [aquí](repositorio.md)
 
 [github]: img/cuenta/github.png "Página principal de GitHub"
 [github-completo]: img/cuenta/github-completo.png "Página principal con datos completados"

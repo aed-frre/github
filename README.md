@@ -17,9 +17,8 @@ En esta asignatura solo vamos a aprovechar una pequeña parte de toda la potenci
 Entonces, que necesitamos saber para usar GitHub en Algoritmos y Estructuras de Datos?
 
 - [Crear una cuenta de GitHub](cuenta.md)
-- [Crear un repositorio](repo.md)
-- [Bifurcar un repositorio](fork.md)
-- [Crear archivos dentro de un repositorio](files.md)
+- [Crear un repositorio](repositorio.md)
+- [Manejar archivos dentro de un repositorio](archivos.md)
 - [Verificar y aceptar un Pull Request](pull-request.md)
 - [Preguntas](preguntas.md)
 
