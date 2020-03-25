@@ -51,7 +51,7 @@ Podemos compartir nuestro algoritmo simplemente compartiendo la URL del mismo qu
 
 ## Subir archivos
 
-De manera similar en lugar de editar los archivos por la interfaz web se pueden subir archivos directamente hacia el repositorio. Esto se logra haciendo click en *Upload files* dentro de la carpeta en repo que quisieramos subir el archivo. 
+De manera similar en lugar de editar los archivos por la interfaz web se pueden subir archivos directamente hacia el repositorio. Esto se logra haciendo click en *Upload files* dentro de la carpeta en repositorio que quisieramos subir el archivo. 
 
 ![Archivo Subir][archivo-subir]
 
@@ -62,6 +62,14 @@ Se seleccionan o arrastran los archivos a subir y similar que en la creación de
 Este proceso se puede repetir con los mismos archivos cuantas veces se desee, los cambios entre archivos son inferidos por GitHub y guardados en el historial de cambios.
 
 ## Eliminar archivos
+
+Para eliminar archivos simplemente lo que hacemos es abrir el archivo en cuestión y hacemos click en el icono de la basura *Delete this file*
+
+![Archivo Eliminar][archivo-eliminar]
+
+Como la eliminación de un archivo tambien implica un cambio en el repositorio tiene que ser commiteado. Ingresamos un título y descripción para el commit y hacemos click en *Commit Changes*
+
+![Archivo Eliminar Commit][archivo-eliminar-commit]
 
 ## Crear carpetas
 
@@ -76,3 +84,5 @@ Este proceso se puede repetir con los mismos archivos cuantas veces se desee, lo
 [archivo-creado-2]: img/archivos/archivo-creado-2.png "Archivo Creado"
 [archivo-subir]: img/archivos/archivo-subir.png "Archivo Subir"
 [archivo-subir-completo]: img/archivos/archivo-subir-completo.png "Archivo Subir Completado"
+[archivo-eliminar]: img/archivos/archivo-eliminar.png "Archivo Eliminar"
+[archivo-eliminar-commit]: img/archivos/archivo-eliminar-commit.png "Archivo Eliminar Commit"
