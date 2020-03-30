@@ -96,12 +96,13 @@ Procedemos a realizar todos los cambios necesarios y realizamos el commit de los
 Para poder ver todos los cambios que hemos commiteado lo que tenemos que hacer click en *Commits* estando situado en la raiz del repositorio.
 
 
+
 Si hacemos click en cada uno vamos a poder ver las diferencias ingresadas en el repositorio por ese commit.
 
 
 ## Listo
 
-Hemos aprendido a manipular archivos desde la interfaz Web de GitHub. Para finalizar vamos a aprender sobre los [Pull Request](pull-request.md).
+Hemos aprendido a manipular archivos desde la interfaz web de GitHub. Para finalizar vamos a aprender sobre los [Pull Request](pull-request.md).
 
 
 [fin-repo]: img/repo/fin-repo.png "Repositorio Finalizado"
