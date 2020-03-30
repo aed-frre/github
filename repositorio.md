@@ -2,7 +2,7 @@
 
 ## Qué es un repositorio?
 
-Un repositorio es un lugar donde podemos almacenar uno o un conjunto de archivos referidos a un mismo proyecto. Estos archivos pueden ser desde documentos de textos, binarios, hasta imagenes. Como GitHub implementa el sistema de control de versionado Git, todos los cambios que vayamos relizando en cualquier archivo dentro de nuestro repositorio van a quedar registrados, pudiendo verlos y volver hacia atras si es necesario.
+Un repositorio es un lugar donde podemos almacenar uno o un conjunto de archivos referidos a un mismo proyecto. Estos archivos pueden ser desde documentos de texto, binarios, hasta imágenes. Como GitHub implementa el sistema de control de versionado Git, todos los cambios que vayamos relizando en cualquier archivo dentro de nuestro repositorio van a quedar registrados, pudiendo verlos y volver hacia atras si es necesario.
 
 ## Pasos
 

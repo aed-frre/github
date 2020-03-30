@@ -1,6 +1,6 @@
 # Crear cuenta de GitHub
 
-Para poder identificarte en la plataforma es necesario primero crear una cuenta en GitHub. 
+Para poder usar e identificarte en la plataforma primero es necesario crear una cuenta en GitHub. 
 
 ## Pasos
 
@@ -12,10 +12,10 @@ Ingresar al siguiente sitio [https://github.com](https://github.com)
 
 ### 2. Ingresar datos de registro
 
-Apenas al ingresar al sitio GitHub ya nos propone opción de registrarnos escribiendo solo tres datos
+Al ingresar al sitio GitHub ya nos propone opción de registrarnos escribiendo solo tres datos
 
 1. Nombre de usuario para la cuenta de GitHub
-2. Dirección de correo electronico
+2. Dirección de correo electrónico
 3. Contraseña para la cuenta de GitHub
 
 > Es posible que esta cuenta te acompañe por el resto de tus días, pensá bien tu nombre de usuario!

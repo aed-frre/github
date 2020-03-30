@@ -51,7 +51,7 @@ Podemos compartir nuestro algoritmo simplemente compartiendo la URL del mismo qu
 
 ## Subir archivos
 
-De manera similar en lugar de editar los archivos por la interfaz web se pueden subir archivos directamente hacia el repositorio. Esto se logra haciendo click en *Upload files* dentro de la carpeta en repositorio que quisieramos subir el archivo. 
+De manera similar en lugar de editar los archivos por la interfaz web se pueden subir  archivos directamente hacia el repositorio. Esto se logra haciendo click en *Upload files* dentro de la carpeta en repositorio que quisieramos subir el archivo. 
 
 ![Archivo Subir][archivo-subir]
 
@@ -73,9 +73,36 @@ Como la eliminación de un archivo tambien implica un cambio en el repositorio t
 
 ## Crear carpetas
 
+En un repositorio git no pueden existir carpetas vacías, de manera que para poder crear una carpeta tenemos que crear el archivo que va a ir dentro de la misma.
+
+De la misma forma que haciamos para crear un archivo, hacemos click en *Create a New File*. Luego en el nombre del archivo se antepone el nombre de la carpeta y se finaliza con un simbolo "/". Se pueden crear varias carpetas anidadas si es neceario, separando sus nombres con el simbolo "/".
+
+![Crear Carpeta][archivo-carpeta]
+
+Escribimos un nombre y una descripcion para registrar nuestro cambio en un commit y hacemos click en *Commit New File*
+
 ## Modificar archivos
 
+Para modificar un archivo lo que tenemos que hacer es hacer click en el icono en forma de lapiz *Edit this File*.
+
+
+
+Procedemos a realizar todos los cambios necesarios y realizamos el commit de los mismos poniendo un titulo y una descripcion al fondo de la pagina y luego haciendo click en *Commit Changes*
+
+
+
 ## Ver historial de cambios
+
+Para poder ver todos los cambios que hemos commiteado lo que tenemos que hacer click en *Commits* estando situado en la raiz del repositorio.
+
+
+Si hacemos click en cada uno vamos a poder ver las diferencias ingresadas en el repositorio por ese commit.
+
+
+## Listo
+
+Hemos aprendido a manipular archivos desde la interfaz Web de GitHub. Para finalizar vamos a aprender sobre los [Pull Request](pull-request.md).
+
 
 [fin-repo]: img/repo/fin-repo.png "Repositorio Finalizado"
 [nuevo-archivo]: img/archivos/nuevo-archivo.png "Nuevo Archivo en Repositorio"
@@ -86,3 +113,4 @@ Como la eliminación de un archivo tambien implica un cambio en el repositorio t
 [archivo-subir-completo]: img/archivos/archivo-subir-completo.png "Archivo Subir Completado"
 [archivo-eliminar]: img/archivos/archivo-eliminar.png "Archivo Eliminar"
 [archivo-eliminar-commit]: img/archivos/archivo-eliminar-commit.png "Archivo Eliminar Commit"
+[archivo-carpeta]: img/archivos/archivo-carpeta.png "Crear Carpeta"
