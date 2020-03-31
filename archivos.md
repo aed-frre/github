@@ -4,7 +4,7 @@
 
 Normalmente los archivos de un repositorio son manejados localmente en una PC a traves de la herramienta git y son subidos a discreción del programador al repositorio central. En Algoritmos y Estructura de Datos, manejar los archivos desde la interfaz web es suficiente para nuestros propósitos y por lo tanto no lo vamos a explicar, sin embargo estas invitado a seguir investigando y aprendiendo a usar esta plataforma
 
-### Contenido
+## Contenido
 
 Aquí aprenderemos los siguiente
 
