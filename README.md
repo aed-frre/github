@@ -8,7 +8,7 @@ GitHub es una plataforma de desarrollo de software y una de las mas grandes e im
 
 ### :computer: Algoritmos y Estructuras de Datos
 
-Desde la cátedra creemos que GitHub puede ser una herramienta que nos permita mejorar y hacer mas dinámico la correcciones de los ejercicios que realizamos en la práctica, además que el conocimiento en el uso de esta plataforma es algo muy demandado en el mercado laboral.
+Creemos que GitHub puede ser una herramienta que nos permita mejorar y hacer mas dinámico la correcciones de los ejercicios que realizamos en la práctica, además que el conocimiento en el uso de esta plataforma es algo muy demandado en el mercado laboral.
 
 ## :bookmark_tabs: Contenido
 
